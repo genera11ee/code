@@ -1,0 +1,34 @@
+.box {
+    background-color: #0098d8;
+    color: #e5e7de; 
+    height: 150px;
+    width: 150px;
+    margin: 25px;
+  }
+  
+  .square {
+    background: radial-gradient(#0098d8, #f54123);;
+    height: 75px;
+    width: 75px;
+  }
+  
+  .box-1 {
+    text-align: center;
+  }
+  
+  .box-2 {
+    margin: 0 auto;
+  }
+  
+  .box-3 {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .box-4 {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    text-align: center;
+  }
+
